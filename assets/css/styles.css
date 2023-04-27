@@ -1,0 +1,9 @@
+#resultados {
+  margin-top: -30px;
+}
+
+.linea-vertical {
+  border-left: 2px dashed rgb(177, 176, 176);
+  height: 32px;
+  width: 1px;
+}
